@@ -1652,7 +1652,7 @@ class _LoginWidgetState extends State<LoginWidget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'x7fb1iza' /* Hello World */,
+                            'es4j6uwi' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),

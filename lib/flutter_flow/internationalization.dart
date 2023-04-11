@@ -122,7 +122,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'it': 'Per le aziende in Svizzera',
     },
     'vzxavnjf': {
-      'en': 'Search',
+      'en': 'Main popup',
       'de': 'Suchen',
       'fr': 'Recherche',
       'it': 'Ricerca',
@@ -442,7 +442,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'fr': 'Veuillez vous inscrire ici!',
       'it': 'Si prega di registrarsi qui!',
     },
-    'x7fb1iza': {
+    'es4j6uwi': {
       'en': 'Hello World',
       'de': '',
       'fr': '',

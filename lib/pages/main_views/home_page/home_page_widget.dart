@@ -1307,7 +1307,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                 shape: RoundedRectangleBorder(
                                                   borderRadius:
                                                       BorderRadius.circular(
-                                                          16.0),
+                                                          0.0),
                                                 ),
                                                 child: Container(
                                                   width: double.infinity,
@@ -1329,7 +1329,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                     ],
                                                     borderRadius:
                                                         BorderRadius.circular(
-                                                            16.0),
+                                                            0.0),
                                                   ),
                                                   child: Padding(
                                                     padding:
@@ -1361,7 +1361,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
                                                             FFLocalizations.of(
                                                                     context)
                                                                 .getText(
-                                                              'vzxavnjf' /* Search */,
+                                                              'vzxavnjf' /* Main popup */,
                                                             ),
                                                             style: FlutterFlowTheme
                                                                     .of(context)
